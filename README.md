@@ -1,5 +1,5 @@
 Для запуска сайта необходимо установить фреймоврк Flask  
-"pip install Flask"  
+pip install Flask  
 Затем ввести команду  
-"pyton main.py"  
+pyton main.py  
 Демонстрация работы и процесс написания сайта представлены в файле RGR_web.pdf
